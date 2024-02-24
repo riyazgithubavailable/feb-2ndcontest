@@ -1,0 +1,26 @@
+/* App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.table-container {
+  margin: 0 auto; /* Centering the table */
+  width: 80%;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+ td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+
+
+tr:hover {
+  background-color: #f2f2f2;
+}
